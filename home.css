@@ -1,8 +1,4 @@
-/*
- First External CSS Stylesheet
- */
 
-/* Styling for HTML elements */
 body{
     background-color: rgba(108, 138, 90, 0.555);
 }
@@ -44,15 +40,14 @@ div {
     color: #d21034;
   }
   
-  /* Selecting elements by class */
+ 
 
   .navbar-brand{
       color: blue;
       width:1024px;
       margin:0 auto;
 
-
-
+  
   }
   .container {
     width: 1024px;
